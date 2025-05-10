@@ -20,4 +20,4 @@ number = number % 10:
 fifthnumber = number:
 
 
-print(%f'{firstnumber}  + {secondnumber} + {thirdnumber} +  {fourthnumber}  +  {fifthnumber}')
+print(f" {firstnumber}  + {secondnumber} + {thirdnumber} +  {fourthnumber}  +  {fifthnumber}")
